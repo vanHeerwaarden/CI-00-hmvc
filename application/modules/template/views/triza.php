@@ -9,7 +9,7 @@
 <![endif]-->
 
 <!-- This site is optimized with the Yoast WordPress SEO plugin v1.3.4.4 - http://yoast.com/wordpress/seo/ -->
-<title>Home - TriZA: Zorg en Advies voor opvoeding en onderwijs</title>
+<title>TriZA: Zorg en Advies voor opvoeding en onderwijs</title>
 <meta name="description" content="Heeft u zorg en advies nodig voor opvoeding en onderwijs? U kunt terecht bij TriZA die de deskundigheid in huis heeft. Coachen, trainen, informatie..">
 <link rel="canonical" href="http://triza.nl/">
 <meta property="og:locale" content="nl_NL">

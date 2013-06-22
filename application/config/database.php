@@ -50,8 +50,8 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'xxxxxx';
-$db['default']['password'] = 'xxx';
-$db['default']['database'] = 'lijn4';
+$db['default']['password'] = 'xxxx';
+$db['default']['database'] = 'xxxxxx';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;

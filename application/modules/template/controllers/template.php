@@ -8,5 +8,10 @@ class Template extends MX_Controller
             $this->load->view('public_one_col', $data);
     }
     
+    function triza($data)
+    {
+            $this->load->view('triza', $data);
+    }
+    
     
 }
