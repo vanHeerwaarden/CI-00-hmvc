@@ -18,6 +18,7 @@ basis installatie overeenkomstig wiredesignz Modular eXtentions (MX) en david co
 1] Schone Codeigniter installatie uitgevoerd <br/>
 2] De $config ['base_url'] correct ingesteld <br/>
 3] Check uitgevoerd -> de URL/index.php/welcome => toont de Welkom boodschap van CodeIgniter <br/>
+3a] Folder public_html aangemaakt en in indexfile system -> ../system en application -> ../application <br/>
 4] Codeigniter is als HMVC applicatie te gebruiken met Modular eXtentions (MX). MX hebben we geplaatst in de application/third_party folder. <br/>
 5] De core-bestanden van Modulaire eXtensies in de map application/core geplaatst. <br/>
 6] De URL/index.php/welcome => toont weer Welkom bij CodeIgniter <br/>
